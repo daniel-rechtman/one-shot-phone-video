@@ -1,0 +1,11 @@
+# פלטי ייצור — גדולים, ולא שייכים לריפו
+runs/
+*.mp4
+__pycache__/
+*.pyc
+
+# לעולם לא. המפתח נקרא מ-~/.claude/secrets/fal.json בזמן ריצה.
+*.key
+secrets/
+fal.json
+.env
